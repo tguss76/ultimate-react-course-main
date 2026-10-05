@@ -1,0 +1,53 @@
+{
+  "cities": [
+    {
+      "cityName": "Hallsberg",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-10-02T14:01:11.967Z",
+      "notes": "",
+      "position": {
+        "lat": "58.98965157496845",
+        "lng": "14.837036132812502"
+      },
+      "id": "s_SFITRimvw"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2026-10-03T12:21:31.006Z",
+      "notes": "",
+      "position": {
+        "lat": "52.50284765940397",
+        "lng": "13.392333984375"
+      },
+      "id": "RQQW8bBcX3I"
+    },
+    {
+      "cityName": "Stockholm",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-10-03T12:45:42.262Z",
+      "notes": "",
+      "position": {
+        "lat": "59.31076795603884",
+        "lng": "18.061523437500004"
+      },
+      "id": "KIzQR02PPvo"
+    },
+    {
+      "cityName": "Linkoping",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-10-03T12:45:56.156Z",
+      "notes": "",
+      "position": {
+        "lat": "58.40746759910688",
+        "lng": "15.628051757812502"
+      },
+      "id": "eYIaqXnMDHY"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
