@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 280px;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #26233b;
+  background:
+    radial-gradient(ellipse at top left, #e9e0ff, transparent 60%),
+    radial-gradient(ellipse at bottom right, #dcefeb, transparent 60%), #f7f8fc;
+  -webkit-font-smoothing: antialiased;
+}
+
+.button {
+  background-color: #367c3c;
+  color: #fff;
+}

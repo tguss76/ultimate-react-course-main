@@ -1,7 +1,9 @@
-node_modules/
+﻿node_modules/
 dist/
 build/
 .next/
 .env
 .env.*
 !.env.example
+/.repository-backups/
+

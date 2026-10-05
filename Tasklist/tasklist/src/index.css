@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  background: #eee9f8;
+  color: #302343;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  max-width: 440px;
+  margin: 40px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 12px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+.input-row {
+  display: flex;
+  gap: 8px;
+}
+
+input {
+  flex: 1;
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid #b9a9cc;
+  border-radius: 6px;
+  font: inherit;
+}
+
+button {
+  padding: 10px;
+  border: 0;
+  border-radius: 6px;
+  background: #7042a8;
+  color: white;
+  font: inherit;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+}
+li span {
+  flex: 1;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+p {
+  color: #756b80;
+  font-size: 14px;
+}
