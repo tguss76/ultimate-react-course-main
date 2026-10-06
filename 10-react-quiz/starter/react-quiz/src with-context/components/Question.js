@@ -1,5 +1,5 @@
-import Options from "./Options";
 import { useQuiz } from "../contexts/Quizcontext";
+import Options from "./Options";
 
 function Question() {
   const { questions, index } = useQuiz();
@@ -8,7 +8,6 @@ function Question() {
     <div>
       <h4>{question.question}</h4>
       <Options question={question} />
-      {/* <Options /> */}
     </div>
   );
 }

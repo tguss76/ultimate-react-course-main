@@ -1,4 +1,5 @@
 import { useQuiz } from "../contexts/Quizcontext";
+
 function StartScreeen() {
   const { numQuestions, dispatch } = useQuiz();
   return (

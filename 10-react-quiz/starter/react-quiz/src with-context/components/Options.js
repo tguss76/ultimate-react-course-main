@@ -3,6 +3,7 @@ import { useQuiz } from "../contexts/Quizcontext";
 function Options({ question }) {
   const { dispatch, answer } = useQuiz();
   const hasAnswered = answer !== null;
+
   return (
     <div className="options">
       {question.options.map((option, index) => (
