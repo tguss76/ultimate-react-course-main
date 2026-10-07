@@ -47,6 +47,30 @@
         "lng": "15.628051757812502"
       },
       "id": "eYIaqXnMDHY"
+    },
+    {
+      "cityName": "Herrera del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-10-07T10:02:21.440Z",
+      "notes": "",
+      "position": {
+        "lat": "39.232253141714885",
+        "lng": "-5.031738281250001"
+      },
+      "id": "A5gwl57G_vo"
+    },
+    {
+      "cityName": "Kungsbacka",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-10-07T12:20:30.516Z",
+      "notes": "",
+      "position": {
+        "lat": "57.27904276497778",
+        "lng": "11.821289062500002"
+      },
+      "id": "sXHq2FG59Lw"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
